@@ -26,7 +26,7 @@ def add_product():
         category = input("Category: ")
         name = input("Product name: ")
         desc = input("Product Description: ")
-        price = int(input("Price: "))
+        price = int(input("Price(SEK): "))
         quantity = int(input("Quantity: "))
 
         print("")
